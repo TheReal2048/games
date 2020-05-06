@@ -1,6 +1,6 @@
-# Many 2048
+# TheReal2048
 
-Made just for fun. [Play it here!](http://true2048.github.io/)
+Made just for fun. [Play it here!](http://thereal2048.github.io/games/)
 
 ## Contributing
 
